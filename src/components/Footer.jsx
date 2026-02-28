@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-12 mb-12">
           {/* Brand */}
           <div>
-            <h2 className="text-2xl font-bold text-white mb-4">Muavia<span className="text-blue-500">.dev</span></h2>
+            <h2 className="text-2xl font-bold text-white mb-4">Zahid<span className="text-blue-500">.dev</span></h2>
             <p className="text-gray-400 leading-relaxed">
               Building intelligent digital experiences with modern web technologies and AI integration.
             </p>

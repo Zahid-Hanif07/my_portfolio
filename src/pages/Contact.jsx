@@ -69,19 +69,19 @@ const Contact = () => {
           <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmuavia072@gmail.com" target="_blank" rel="noopener noreferrer" className="group block bg-white/10 p-6 rounded-2xl border border-white/10 backdrop-blur-md shadow-md hover:shadow-[0_0_25px_rgba(59,130,246,0.3)] transition-all cursor-pointer relative z-50">
             <Mail className="text-cyan-400 w-6 h-6 mb-3 group-hover:scale-110 transition-transform" />
             <h3 className="text-xl font-semibold text-blue-300 mb-1 group-hover:text-cyan-400 transition-colors">Email</h3>
-            <p className="text-gray-300 group-hover:text-white transition-colors">ahmedmuavia072@gmail.com</p>
+            <p className="text-gray-300 group-hover:text-white transition-colors">mzahidhanif07@gmail.com</p>
           </a>
 
           <a href="https://wa.me/923041275072" target="_blank" rel="noopener noreferrer" className="group block bg-white/10 p-6 rounded-2xl border border-white/10 backdrop-blur-md shadow-md hover:shadow-[0_0_25px_rgba(59,130,246,0.3)] transition-all cursor-pointer relative z-50">
             <Phone className="text-cyan-400 w-6 h-6 mb-3 group-hover:scale-110 transition-transform" />
             <h3 className="text-xl font-semibold text-blue-300 mb-1 group-hover:text-cyan-400 transition-colors">Phone</h3>
-            <p className="text-gray-300 group-hover:text-white transition-colors">03041275072</p>
+            <p className="text-gray-300 group-hover:text-white transition-colors">0312-7652207</p>
           </a>
 
           <a href="https://www.google.com/maps/search/?api=1&query=Rahim+Yar+Khan+Pakistan" target="_blank" rel="noopener noreferrer" className="group block bg-white/10 p-6 rounded-2xl border border-white/10 backdrop-blur-md shadow-md hover:shadow-[0_0_25px_rgba(59,130,246,0.3)] transition-all cursor-pointer relative z-50">
             <MapPin className="text-cyan-400 w-6 h-6 mb-3 group-hover:scale-110 transition-transform" />
             <h3 className="text-xl font-semibold text-blue-300 mb-1 group-hover:text-cyan-400 transition-colors">Location</h3>
-            <p className="text-gray-300 group-hover:text-white transition-colors">ryk,Pakistan</p>
+            <p className="text-gray-300 group-hover:text-white transition-colors">Rahim Yar Khan,Pakistan</p>
           </a>
         </motion.div>
 
